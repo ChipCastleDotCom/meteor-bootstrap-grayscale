@@ -5,6 +5,8 @@ A brochure site using the
 
 ## Getting Started
 
+![meteor-bootstrap-grayscale](meteor-bootstrap-grayscale.gif)
+
 To use this as a brochure site, do the following to get started:
 * [Install Meteor using the instructions on their
   site](https://www.meteor.com/install) for your platform
