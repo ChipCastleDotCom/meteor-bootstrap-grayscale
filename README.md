@@ -5,7 +5,7 @@ A brochure site using the
 
 ## Getting Started
 
-![meteor-bootstrap-grayscale](https://github.com/ChipCastleDotCom/meteor-bootstrap-grayscale/blob/master/meteor-bootstrap-grayscale.gif)
+![meteor-bootstrap-grayscale](https://raw.githubusercontent.com/ChipCastleDotCom/meteor-bootstrap-grayscale/master/meteor-bootstrap-grayscale.gif)
 
 To use this as a brochure site, do the following to get started:
 * [Install Meteor using the instructions on their
