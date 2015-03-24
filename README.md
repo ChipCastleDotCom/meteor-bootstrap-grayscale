@@ -15,7 +15,7 @@ To use this as a brochure site, do the following to get started:
 
 * Change into the directory, type `meteor` and press the Enter key
 
-* Visit the site by pointing your browser to http://localhost:3000
+* Visit the site by pointing your browser to [http://localhost:3000](http://localhost:3000)
 
 ## Creator
 
