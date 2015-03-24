@@ -17,6 +17,8 @@ To use this as a brochure site, do the following to get started:
 
 * Visit the site by pointing your browser to [http://localhost:3000](http://localhost:3000)
 
+* Edit the `index.html` and `public/css/grayscale.css` files to suit your needs.
+
 ## Creator
 
 This repository is maintained by [Chip
