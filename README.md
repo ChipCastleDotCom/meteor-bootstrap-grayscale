@@ -1,18 +1,28 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+# meteor-bootstrap-grayscale
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+A brochure site using the 
+[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) template from [Start Bootstrap](http://startbootstrap.com/), converted by [Chip Castle Dot Com, Inc.](http://chipcastle.com) to work with [Meteor](http://meteor.com).
 
 ## Getting Started
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+To use this as a brochure site, do the following to get started:
+* [Install Meteor using the instructions on their
+  site](https://www.meteor.com/install) for your platform.
 
-## Bugs and Issues
+* Download this repository on GitHub
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+* Unzip the archive
+
+* Change into the directory, type `meteor` and press the Enter key.
+
 
 ## Creator
+
+This repository is maintained by [Chip Castle Dot Com,
+Inc.](http://chipcastle.com). 
+
+* https://twitter.com/chipcastle
+* https://github.com/chipcastledotcom
 
 Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
