@@ -7,14 +7,15 @@ A brochure site using the
 
 To use this as a brochure site, do the following to get started:
 * [Install Meteor using the instructions on their
-  site](https://www.meteor.com/install) for your platform.
+  site](https://www.meteor.com/install) for your platform
 
 * Download this repository on GitHub
 
 * Unzip the archive
 
-* Change into the directory, type `meteor` and press the Enter key.
+* Change into the directory, type `meteor` and press the Enter key
 
+* Visit the site by pointing your browser to http://localhost:3000
 
 ## Creator
 
