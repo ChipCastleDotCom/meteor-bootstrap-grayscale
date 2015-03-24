@@ -19,8 +19,8 @@ To use this as a brochure site, do the following to get started:
 
 ## Creator
 
-This repository is maintained by [Chip Castle Dot Com,
-Inc.](http://chipcastle.com). 
+This repository is maintained by [Chip
+Castle](http://github.com/chip), Owner of [Chip Castle Dot Com, Inc.](http://chipcastle.com). 
 
 * https://twitter.com/chipcastle
 * https://github.com/chipcastledotcom
